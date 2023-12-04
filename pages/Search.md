@@ -7,7 +7,7 @@ platforms:: [[All Platforms]]
 		- Pressing `Enter` will search a result. Pressing `Shift-Enter` will open the search result in the sidebar.
 		- Pressing `Cmd-Enter` (macOS)/`Ctrl-Enter` (Windows and Linux) will move the search to the sidebar.
 		- Creates pages or whiteboards from this modal by typing a new unique string and pressing `Enter`.
-	- When in a page, search blocks within a page by running the command `Search in the current page` or press `Cmd-Shift-k` (macOS) or `Ctrl-Shift-k` (Windows and Linus).
+	- When in a page, search blocks within a page by running the command `Search in the current page` or press `Cmd-Shift-k` (macOS) or `Ctrl-Shift-k` (Windows and Linux).
 - ## Functionality
 	- Page search can find any page under `journals` or `pages`.
 	- Block search _only_ finds blocks within pages. It does not find blocks _anywhere_ else in the app e.g. linked references, sidebar, settings, etc.
